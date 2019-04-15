@@ -1,0 +1,6 @@
+hello, a greeting word
+world, the place we all live in
+dog, a boring animal
+elephant, a big animal
+friend, someone we talk a lot with
+university, place where people learn a lot of things
